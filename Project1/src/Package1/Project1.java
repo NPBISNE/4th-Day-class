@@ -17,6 +17,7 @@ public class Project1
 		System.out.println(abc.a);
 		abc.a = 789;
 		abc.a = 123;
+		abc.a = 455;
 		System.out.println(abc.a);
 		
 	}
