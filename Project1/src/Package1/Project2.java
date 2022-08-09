@@ -45,6 +45,7 @@ public class Project2
 		int mulresult=dev.mul(subresult, 2);
 		dev.div(mulresult, 2);
 		dev.nilesh(mulresult,2);
+		dev.nilesh(mulresult,2);
 	}
 	
 
